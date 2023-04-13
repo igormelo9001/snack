@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, HStack, Pressable, Icon, Avatar, FlatList } from "native-base";
-import Storys from "../components";
+import Storys from "../components/Storys";
 import Feed from "../components/Feed"
 
 import { Feather } from "@expo/vector-icons"
